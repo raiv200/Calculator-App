@@ -47,7 +47,7 @@ Steps to run the app locally:
 #### Step-1: Git Clone the project
 
 ```bash
-   git clone https://github.com/raiv200/TaskUpp.git
+   git clone https://github.com/raiv200/Calculator-App.git
 ```
 
 #### Step-2: Install the dependencies
